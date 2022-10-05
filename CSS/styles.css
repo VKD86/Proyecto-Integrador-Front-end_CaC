@@ -85,7 +85,7 @@
 /*ESTILOS SECCION INICIAL*/
 
 .divInicial {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/ba1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../Img/ba1.jpg");
     background-size: cover;
     width: 100%;
     height: 100vh;
